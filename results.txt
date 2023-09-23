@@ -1,0 +1,5 @@
+Largest Calculated number was:				50000002			with:			106 Steps and calculation Time:	0h 0min 0s 0ms
+Largest number of steps:					734					for the value:	46564287 and calculation Time:	0h 0min 0s 0ms
+Longest calculation Time:					0h 0min 1s 267ms		for the value:	47850473
+Programm runtime:							0h 0min 27s 459ms
+
